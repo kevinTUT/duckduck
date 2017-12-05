@@ -1,0 +1,66 @@
+   {
+     "rating": {
+       "max": 10,
+       "average": 9.3,
+       "stars": "50",
+       "min": 0
+     },
+     "genres": [
+       "喜剧",
+       "爱情",
+       "科幻"
+     ],
+     "title": "机器人总动员",
+     "casts": [{
+         "alt": "https://movie.douban.com/celebrity/1009535/",
+         "avatars": {
+           "small": "https://img1.doubanio.com/img/celebrity/small/13028.jpg",
+           "large": "https://img1.doubanio.com/img/celebrity/large/13028.jpg",
+           "medium": "https://img1.doubanio.com/img/celebrity/medium/13028.jpg"
+         },
+         "name": "本·贝尔特",
+         "id": "1009535"
+       },
+       {
+         "alt": "https://movie.douban.com/celebrity/1000389/",
+         "avatars": {
+           "small": "https://img5.doubanio.com/img/celebrity/small/1365856130.16.jpg",
+           "large": "https://img5.doubanio.com/img/celebrity/large/1365856130.16.jpg",
+           "medium": "https://img5.doubanio.com/img/celebrity/medium/1365856130.16.jpg"
+         },
+         "name": "艾丽莎·奈特",
+         "id": "1000389"
+       },
+       {
+         "alt": "https://movie.douban.com/celebrity/1018022/",
+         "avatars": {
+           "small": "https://img1.doubanio.com/img/celebrity/small/31068.jpg",
+           "large": "https://img1.doubanio.com/img/celebrity/large/31068.jpg",
+           "medium": "https://img1.doubanio.com/img/celebrity/medium/31068.jpg"
+         },
+         "name": "杰夫·格尔林",
+         "id": "1018022"
+       }
+     ],
+     "collect_count": 569687,
+     "original_title": "WALL·E",
+     "subtype": "movie",
+     "directors": [{
+       "alt": "https://movie.douban.com/celebrity/1036450/",
+       "avatars": {
+         "small": "https://img5.doubanio.com/img/celebrity/small/1467359656.96.jpg",
+         "large": "https://img5.doubanio.com/img/celebrity/large/1467359656.96.jpg",
+         "medium": "https://img5.doubanio.com/img/celebrity/medium/1467359656.96.jpg"
+       },
+       "name": "安德鲁·斯坦顿",
+       "id": "1036450"
+     }],
+     "year": "2008",
+     "images": {
+       "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg",
+       "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p449665982.jpg",
+       "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p449665982.jpg"
+     },
+     "alt": "https://movie.douban.com/subject/2131459/",
+     "id": "2131459"
+   }
